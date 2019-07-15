@@ -1,0 +1,22 @@
+page{background:#f5f7f9;}
+.banner swiper{height:320rpx;overflow: hidden;}
+.banner image{width:100%;}
+.banner{margin-top:100rpx;}
+
+  //菜单列表
+.menu{border-radius:25rpx 25rpx 0 0;margin-top:-13rpx;}
+.menu image{width:78rpx;height:78rpx;}
+.menu text{color:#999;}
+.menu>view{width:25%;height:213rpx;}
+.menu>view text{font-size:28rpx;margin-top:15rpx;letter-spacing: 3rpx;}
+
+//领厨、领品标题
+.list_tit{color:#c0c0c0;font-size:28rpx;letter-spacing:7rpx;font-weight: 100;border-bottom:2rpx solid #f5f7f9;height:160rpx;}
+.list_tit text{font-size:38rpx;font-weight:bold;letter-spacing: 8rpx;color:#333;margin-bottom:20rpx;}
+.list_tit .more{color:#999;top:35rpx;right:41rpx;width:130rpx;height:55rpx;}
+
+
+//领厨十谱
+.ten_spectrum image{width:100%;height:350rpx;margin:30rpx 0 35rpx;}
+.ten_spectrum .spectrum_tit{font-size:36rpx;font-weight: bold;color:#080808;}
+.ten_spectrum view{height:80rpx;line-height:80rpx;color:#999;font-size:26rpx;}

@@ -1,0 +1,31 @@
+page{background:#f5f7f9;}
+.banner{padding-top:66rpx;}
+.banner swiper{height:553rpx;overflow: hidden;}
+.banner image{width:100%;}
+.collar_product_tit{font-family: PingFangSC-Light;letter-spacing: 4rpx;height:140rpx;line-height: 48rpx;}
+.collar_product_tit view{font-family: PingFangSC-Medium;color:#000;font-weight: bold;}
+.commodity_map{width:220rpx;height:220rpx;}
+.go_shopping{width:200rpx;font-family: PingFangSC-Regular;background:#313131;}
+.goods_list{padding:30rpx 0;}
+.goods_r{width:62%;}
+.price{line-height:50rpx;margin-top:45rpx;}
+.price .original_price{text-decoration: line-through;}
+.promotion{padding:30rpx 0;line-height: 50rpx;}
+.promotion view{width: 82%;}
+.promotion_tag{width:58rpx;height:30rpx;line-height:30rpx;border:2rpx solid #ec2525;color:#ec2525;margin-top:10rpx;}
+.goods_num{width:220rpx;height:58rpx;line-height:58rpx;border: 1px solid #979797;margin-left:50rpx;}
+.goods_num text{width:59rpx;font-weight: bold;}
+.goods_num input{border-left:2rpx solid #999;border-right:2rpx solid #999;width:100rpx;}
+.colour{margin-left:50rpx;width:83%;}
+.colour text{height: 60rpx;padding:0 21rpx; display: inline-block;line-height: 60rpx;background: #f5f7f9;margin:25rpx 30rpx 0 0;}
+.colour text.colour_cur{background: #000;color:white;}
+.goods_color_num>view{padding-bottom:30rpx;}
+
+.goods_footer{height:97rpx;box-shadow: 0 -5rpx 5rpx #eeeeee;bottom: 0rpx;line-height: 97rpx;font-family: PingFangSC-Medium;z-index: 3;}
+.goods_footer view:last-child{background: #313131;color:white;}
+.goods_tit{font-family: PingFangSC-Medium;font-weight: bold;line-height: 50rpx;letter-spacing: 2rpx;padding:20rpx 0;font-weight: bold;}
+.collar_street_header>view{width:50%;}
+.collar_street_header>View.current{
+  view{width:20%;}
+}
+.class_num{padding-top:30rpx}

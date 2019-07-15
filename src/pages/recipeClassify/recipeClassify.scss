@@ -1,0 +1,39 @@
+.classfiy{
+  height:100%;background: #F5F7F9;
+  >view.classfiy_right{
+    bottom:0rpx;right:0rpx;
+    width:75%;height:92%;
+    view.recipe_tit{
+      ont-family: PingFangSC-Regular;
+      $height:75rpx;
+      line-height: $height;
+      height:$height;padding:0 24rpx;
+    }
+    view.category{
+      padding:0 12rpx;overflow:scroll;height: 93%;
+      view{
+        float:left;
+        height:230rpx;
+        margin:0 12rpx 30rpx;
+        image{height:165rpx;border-radius:10rpx;margin-bottom:15rpx;width:100%;}
+        width:29%;
+        text-align: center;
+        font-family: PingFangSC-Regular;
+      }
+    }
+  }
+  >view.classfiy_left{
+    font-family: PingFangSC-Light;
+    color: #4A4945;bottom:0rpx;left:0rpx;
+    width:35%;height:92%;
+    $height:110rpx;
+    view{
+      height:$height;line-height:$height;
+      width:72%;
+      border-left:10rpx solid #F5F7F9;
+    }
+    view.choice{
+      border-left:10rpx solid #000;
+    }
+  }
+}

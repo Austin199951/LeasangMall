@@ -1,0 +1,5 @@
+dist/
+node_modules/
+src/pages/test/test.tsx
+src/pages/test/test.scss
+.idea/

@@ -1,0 +1,24 @@
+
+//搜索历史
+.saerch_history{
+  height:100%;z-index: 3;
+  margin-top: 70rpx;
+  .search_tit {
+    letter-spacing: 3rpx;
+    margin:75rpx 0 15rpx;
+    color: #B5B5B5;
+    image{width:36rpx;height:36rpx;}
+  }
+  $height:65rpx;
+
+  text{
+    margin:30rpx 30rpx 0 0;
+    background: #F5F7F9;
+    border-radius: 8px;
+    color: #313131;
+    padding:0 25rpx;
+    height:$height;
+    display: inline-block;
+    line-height: $height;
+  }
+}

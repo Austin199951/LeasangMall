@@ -1,0 +1,43 @@
+.recipes_over{height:500rpx;}
+.recipes_over view{background: #F5F7F9;}
+.recipes_tit{font-family: PingFangSC-Medium;font-weight: bold;letter-spacing: 3rpx;}
+.big_tit{padding:48rpx 0;font-weight: normal;}
+.small_tit{margin:38rpx 0;}
+.food_story{font-family: PingFangSC-Light;height:120rpx;letter-spacing: 3rpx;margin:48rpx 0;font-family: PingFangSC-Light;}
+.explain{margin:0rpx;}
+.practice{padding:42rpx 0;font-family: PingFangSC-Light;letter-spacing: 0.89px;}
+
+.material{letter-spacing: 4rpx;font-family: PingFangSC-Light;font-family: PingFangSC-Light;}
+.material input{height:100%;width:47%}
+.continue{margin:80rpx auto 48rpx;}
+
+
+//步骤标题
+.step_tit{
+  height:115rpx;
+  >text{font-weight: bold;}
+  >view>image{width:50rpx;height:50rpx;}
+  >view>view{
+    transition: all 0.4s;
+    margin-right:20rpx;
+    width:390rpx;
+    height:75rpx;
+    color:white;
+    font{
+      size:20rpx;
+    }
+    view{width:32.5%;height:100%;}
+    background: #999;
+    border-radius: 8px;
+    image{width:45rpx;height:45rpx;margin-right:10rpx;}
+
+    text{height:55%;display: block;width:1rpx;background:white;}
+  }
+}
+
+.opacity_step{
+  opacity: 0;
+}
+.opacity_cur{
+  opacity: 100;
+}

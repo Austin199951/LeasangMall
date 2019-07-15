@@ -1,0 +1,20 @@
+page{background:#f5f7f9;}
+.user_msg{padding-bottom:35rpx;}
+.user_info{height:180rpx;}
+.user_info .arrow_right{width:20rpx;height:35rpx;}
+.user_info view text{margin-left:25rpx;overflow : hidden;width:75%;font-family: PingFangSC-Medium;}
+.user_info .w90>view{width:92%;}
+.collect>view{width:33%;height:140rpx;color:#999;letter-spacing: 3rpx;}
+.collect view view{color:#333;margin-bottom:15rpx;}
+.collect text{height:45rpx;width:3rpx;background:#f1f1f1;}
+
+//我的订单eaeaea;
+.my_order{height:245rpx;box-shadow: 3rpx 3rpx 5rpx #eaeaea, -3rpx -3rpx 5rpx #eaeaea;border-radius: 15rpx;margin-top:20rpx;}
+.my_order view image{width:70rpx;height:70rpx;margin-bottom:15rpx;}
+.my_order .order_tit{height:81rpx;line-height: 81rpx;margin-left:35rpx;}
+.my_order view view{width:25%;height:155rpx;color:#999;letter-spacing: 3rpx;}
+
+//用户列表
+.user_list>view{border-bottom:2rpx solid #f5f7f9;letter-spacing: 3rpx;}
+.user_list>view view image{width:54rpx;height:54rpx;margin-bottom:25rpx;}
+.user_list>view view{width:25%;height:197rpx;}

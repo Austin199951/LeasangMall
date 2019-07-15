@@ -1,0 +1,15 @@
+{
+	"miniprogramRoot": "dist/",
+	"projectname": "%E9%A2%86%E4%B8%8A%E6%88%90%E5%93%81",
+	"description": "test taro",
+	"appid": "wx52a9b7753e973b51",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"condition": {}
+}

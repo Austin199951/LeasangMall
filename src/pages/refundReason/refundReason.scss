@@ -1,0 +1,10 @@
+.refund{font-family: PingFangSC-Medium;border-radius: 8rpx;}
+.pub_list{border-top:2rpx solid #F5F7F9;}
+
+.refund_reason{
+  z-index: 3;transition: transform 0.3s ease-out;bottom:-54%;
+  .pub_list{border-bottom:2rpx solid #F5F7F9;font-family: PingFangSC-Medium;font-weight: bold;border-top:none;}
+  .reason{line-height: 83rpx;padding:25rpx 0;}
+}
+
+.rea_cur{transform: translate(0, -111%);}

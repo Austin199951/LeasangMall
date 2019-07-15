@@ -1,0 +1,10 @@
+page{
+  background: #f5f7f9;
+}
+.pub_list{height:88rpx;line-height: 88rpx;border-bottom:2rpx solid #f5f7f9;}
+.pub_list label,.detailed_addr label{width:165rpx;color:#999;}
+.pub_list input{height: 100%;width:75%;margin-left:30rpx;}
+.pub_list switch{zoom:71%;}
+.detailed_addr{padding-bottom:40rpx;}
+.detailed_addr textarea{background:#f5f7f9;padding:25rpx;width:94%;border-radius: 10rpx;line-height:50rpx;letter-spacing:5rpx;}
+.detailed_addr label{height:88rpx;line-height: 88rpx;display: inline-block;}
